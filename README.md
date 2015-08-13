@@ -64,3 +64,7 @@ Reddit user TheCoryKid (auto-hide)
 Github user MechaLynx (restoring the 'Watch Later' button on the player's bar)
 
 Greasyfork/userstyle user anon ymous/anon1928 (progress bar fix)
+
+##License
+
+This project is released under the terms of the GNU GPL v2. See the included LICENSE file for details.
