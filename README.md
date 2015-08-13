@@ -1,6 +1,6 @@
-# Youtube Player Restoration Project
+# YouTube Player Restoration Project
 
-On August of 2015 Google updated their Youtube player. While the performance and bug fixes where welcomed by some, many users disliked the new interface and missed old features. This project attempts to restore the look and interface of the Youtube player to its state before the update on 03-08-2015.
+On August of 2015 Google updated their YouTube player. While the performance and bug fixes where welcomed by some, many users disliked the new interface and missed old features. This project attempts to restore the look and interface of the YouTube player to its state before the update on 03-08-2015.
 
 It was born from this reddit thread:
 
